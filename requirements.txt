@@ -1,7 +1,2 @@
----
-
-## **2. `requirements.txt`** (Dependencies)
-
-```plaintext
 pandas
 requests
