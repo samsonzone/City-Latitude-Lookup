@@ -25,7 +25,7 @@ pip install -r requirements.txt
 ## Usage
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/bmsam/City-Latitude-Lookup/city-latitude-lookup.git
+   git clone https://github.com/samsonzone/City-Latitude-Lookup/city-latitude-lookup.git
    cd city-latitude-lookup
    ```
 
